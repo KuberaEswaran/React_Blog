@@ -1,7 +1,7 @@
 {
   "name": "react4-route",
   "version": "0.1.0",
-  "homepage": "https://KuberaEswaran.github.io/React_Blog/",
+  "homepage": "https://KuberaEswaran.github.io/",
   "private": true,
   "dependencies": {
     "ajv": "^8.17.1",
